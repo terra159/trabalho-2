@@ -23,7 +23,7 @@
  <section class="parte dois">
 	<h1>olha o pato andando</h1>
 
-<img src="https://i.gifer.com/XOsX.gif">
+<img src="XOsX.mp4">
         
         
 </section>
