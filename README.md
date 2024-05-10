@@ -1,14 +1,12 @@
-/*
 <!DOCTYPE html>
-
 <html lang="pt-br">
 
 <style>
-:root {
+	:root {
 
-    --cor_de_fundo: #929498;
+		--cor_de_fundo: #929498;
 
-    --cor_principal: #171109
+    		--cor_principal: #171109
 }
 
 body{
@@ -22,7 +20,7 @@ body{
     padding: 0;
 }
     </style>
-*/
+    
 <head>
 
 <title>trabalho</title>
@@ -31,7 +29,6 @@ body{
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 	
-
 </head>
 
 <body>
@@ -46,7 +43,7 @@ body{
   <h1>O video mais incrivel q vc vai ver hoje</h1>  <a href="https://www.youtube.com/watch?v=1LE3V9PE3GU">video incrivel</a>
 
  <section class="parte dois">
-        <h1>olha o pato andando</h1>
+	<h1>olha o pato andando</h1>
 
 <img src="https://i.gifer.com/XOsX.gif">
         
