@@ -1,4 +1,4 @@
- <style>
+<style>
 :root {
 
     --cor_de_fundo: #929498;
@@ -17,7 +17,7 @@ body{
     padding: 0;
 }
     </style>
-
+    
 <head>
 
 	<title>trabalho</title>
