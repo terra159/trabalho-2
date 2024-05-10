@@ -1,3 +1,4 @@
+/*
 <!DOCTYPE html>
 
 <html lang="pt-br">
@@ -21,7 +22,7 @@ body{
     padding: 0;
 }
     </style>
-
+*/
 <head>
 
 <title>trabalho</title>
