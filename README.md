@@ -17,8 +17,6 @@ body{
     padding: 0;
 }
     </style>
-    
-<head>
 
 	<title>trabalho</title>
 
@@ -27,9 +25,7 @@ body{
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 
-</head>
 
-<body>
 
     <h1>ta ai o link</h1>
    
@@ -47,6 +43,3 @@ body{
         
         
     </section>
-</body>
-
-</html>
