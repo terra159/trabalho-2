@@ -1,26 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
-<style>
-	:root {
-
-		--cor_de_fundo: #929498;
-
-    		--cor_principal: #171109
-}
-
-body{
-
-    background-color: var(--cor_de_fundo);
-    color:var(--cor_principal)
-}
-
-*{
-    margin: 0;
-    padding: 0;
-}
-    </style>
-    
 <head>
 
 <title>trabalho</title>
