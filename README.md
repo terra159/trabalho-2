@@ -21,7 +21,7 @@
     <section class="parte dois">
         <h1>olha o pato andando</h1>
 
-   <img src="https://i.gifer.com/XOsX.gif" alt="srcset">
+   <img src="pato.gif" alt="srcset">
         
         
   </section>
