@@ -1,6 +1,4 @@
-<html lang="pt-br">
-
-    <style>
+ <style>
 :root {
 
     --cor_de_fundo: #929498;
